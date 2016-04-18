@@ -1,0 +1,28 @@
+name: casadeinvestimentos
+favicon: null
+layout_spectrum: 0.7614867137745023
+typography_spectrum: 0.48428363585844636
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8400477638933808
+  lightness: 0.09255899349227548
+  saturation: 0.8094510587397963
+  rhythmicContrast: 0.37726559047587216
+purpose: []
